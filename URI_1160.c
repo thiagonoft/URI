@@ -12,7 +12,7 @@ Obs.: se o tempo for mais do que 100 anos o programa deve apresentar a mensagem:
 Neste caso, acredito que seja melhor interromper o programa imediatamente após passar de 100 anos, 
 caso contrário você poderá receber como resposta da submissão deste problema "Time Limit Exceeded".
 
-*\
+*/
 
 #include <stdio.h>
 
