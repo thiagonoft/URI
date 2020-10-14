@@ -1,3 +1,16 @@
+/*
+
+Entrada
+A primeira linha da entrada contém um inteiro N (1 ≤ N ≤ 50) indicando o número de células no tabuleiro. 
+O tabuleiro é dado nas próximas N linhas. 
+A i-ésima linha seguinte contém 0 se não existe mina na i-ésima célula do tabuleiro e 1 se existe uma mina na i-ésima célula do tabuleiro.
+
+Saída
+A saída é composta por N linhas. A i-ésima linha da saída contém o número de minas explosivas nos arredores da i-ésima célula do tabuleiro.
+
+*/
+
+
 #include <stdio.h>
 
 int main(void) {
