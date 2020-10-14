@@ -1,3 +1,7 @@
+// Dados dois números inteiros, n e m, quantos dígitos tem nm ?
+
+
+
 #include <stdio.h>
 #include <math.h>
  
